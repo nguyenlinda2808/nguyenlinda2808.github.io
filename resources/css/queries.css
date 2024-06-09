@@ -1,0 +1,40 @@
+@media only screen  and (max-width:1200px){
+  html{
+    font-size: 10px;
+  }
+  .heading-main-box{
+    transform: translate(-30%,-50%);
+  }
+
+}
+ 
+
+@media only screen and (max-width:1023px){
+  .main-nav{
+    margin-right: 40px;
+  }
+
+  .main-nav li{
+    margin-right: 20px;
+
+  }
+     
+}
+ 
+
+@media only screen and (max-width: 767px){
+  .main-nav{
+    visibility: hidden;
+  }
+  h1{
+    word-spacing: 2px;
+    font-size: 20px;
+  }
+
+}
+ 
+
+@media only screen and (max-width: 480px){
+   
+ 
+}
